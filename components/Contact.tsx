@@ -19,7 +19,7 @@ const Contact = () => {
         <SocialLink title="Github" link="https://github.com/sakshikaleee" />
         <SocialLink
           title="Linkedin"
-          link="https://github.com/sakshikaleee"
+          link="https://www.linkedin.com/in/sakshikalee"
         />
       </div>
     </div>
