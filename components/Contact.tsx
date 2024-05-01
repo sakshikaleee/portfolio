@@ -16,10 +16,10 @@ const Contact = () => {
         </a>
       </div>
       <div className="mt-8 flex items-center flex-wrap   gap-8 justify-center">
-        <SocialLink title="Github" link="https://github.com/noorjsdivs" />
+        <SocialLink title="Github" link="https://github.com/sakshikaleee" />
         <SocialLink
           title="Linkedin"
-          link="https://www.linkedin.com/in/noor-mohammad-ab2245193/"
+          link="https://github.com/sakshikaleee"
         />
       </div>
     </div>
